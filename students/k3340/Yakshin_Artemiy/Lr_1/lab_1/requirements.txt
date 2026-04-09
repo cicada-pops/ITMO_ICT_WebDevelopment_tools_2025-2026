@@ -1,0 +1,8 @@
+fastapi[all]
+sqlmodel
+psycopg2-binary
+alembic
+python-dotenv
+bcrypt
+PyJWT
+typing_extensions

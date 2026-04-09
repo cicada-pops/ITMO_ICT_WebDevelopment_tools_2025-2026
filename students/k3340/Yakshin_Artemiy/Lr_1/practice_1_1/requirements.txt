@@ -1,0 +1,2 @@
+fastapi[all]
+typing_extensions
