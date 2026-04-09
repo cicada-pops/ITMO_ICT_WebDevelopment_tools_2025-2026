@@ -1,7 +1,3 @@
----
-title: Эндпоинты
----
-
 # Эндпоинты
 
 Эндпоинты разнесены по файлам в `app/routers/`, каждый — с префиксом и
@@ -326,7 +322,7 @@ def submit_task(
 ```
 
 Аналогичные файлы есть для `locations`, `participants` и `tasks`.
-Их полный текст — в [`Lr_1/lab_1/app/routers/`](../../Lr_1/lab_1/app/routers/).
+Их полный текст — в [`Lr_1/lab_1/app/routers/`](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340/Yakshin_Artemiy/Lr_1/lab_1/app/routers/).
 
 ## Пример ответа с вложением
 

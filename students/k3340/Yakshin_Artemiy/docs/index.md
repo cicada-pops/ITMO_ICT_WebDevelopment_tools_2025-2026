@@ -1,7 +1,3 @@
----
-title: Главная
----
-
 # Якшин Артемий — Web Development Tools
 
 Студент группы **K3340**, ИТМО.
@@ -9,7 +5,7 @@ title: Главная
 
 ## Лабораторные работы
 
-- [Лабораторная работа №1 — Система проведения хакатонов](lr_1/)
+- [Лабораторная работа №1 — Система проведения хакатонов](lr_1/index.md)
 
 ## Стек технологий
 
@@ -22,5 +18,5 @@ title: Главная
 
 ## Ссылки
 
-- [Исходный код на GitHub](https://github.com/)
-- [Группа K3340](../../)
+- [Исходный код на GitHub](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026)
+- [Группа K3340](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340)

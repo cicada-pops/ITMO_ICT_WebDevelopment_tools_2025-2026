@@ -1,7 +1,3 @@
----
-title: Лабораторная работа №1 — финальная сборка
----
-
 # Лабораторная работа №1 — финальная сборка
 
 В этом разделе описана итоговая реализация приложения **Hackathons API**,
@@ -65,5 +61,5 @@ Swagger: <http://127.0.0.1:8000/docs>
 
 ## Ссылки
 
-- Исходный код — [`Lr_1/lab_1/`](../../Lr_1/lab_1/)
+- Исходный код — [`Lr_1/lab_1/`](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340/Yakshin_Artemiy/Lr_1/lab_1/)
 - [← Практика 1.3](practice_1_3.md) | [Структура проекта →](lab_1_structure.md)

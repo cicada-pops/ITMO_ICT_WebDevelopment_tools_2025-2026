@@ -1,7 +1,3 @@
----
-title: Практика 1.2 — SQLModel + PostgreSQL
----
-
 # Практика 1.2 — SQLModel + PostgreSQL
 
 ## Задание
@@ -295,5 +291,5 @@ CRUD для всех сущностей: `Location`, `Hackathon`, `Team`, `Parti
 
 ## Ссылки
 
-- Исходный код — [`Lr_1/practice_1_2/`](../../Lr_1/practice_1_2/)
+- Исходный код — [`Lr_1/practice_1_2/`](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340/Yakshin_Artemiy/Lr_1/practice_1_2/)
 - [← Практика 1.1](practice_1_1.md) | [Далее: Практика 1.3 →](practice_1_3.md)

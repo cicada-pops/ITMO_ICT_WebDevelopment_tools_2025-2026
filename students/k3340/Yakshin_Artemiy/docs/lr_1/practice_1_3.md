@@ -1,7 +1,3 @@
----
-title: Практика 1.3 — Alembic + .env
----
-
 # Практика 1.3 — Alembic + `.env`
 
 ## Задание
@@ -177,5 +173,5 @@ alembic current
 
 ## Ссылки
 
-- Исходный код — [`Lr_1/practice_1_3/`](../../Lr_1/practice_1_3/)
+- Исходный код — [`Lr_1/practice_1_3/`](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340/Yakshin_Artemiy/Lr_1/practice_1_3/)
 - [← Практика 1.2](practice_1_2.md) | [Далее: Лабораторная работа →](lab_1.md)
