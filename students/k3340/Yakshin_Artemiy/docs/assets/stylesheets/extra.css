@@ -1,0 +1,26 @@
+/* Make desktop layout less cramped and improve readability */
+@media screen and (min-width: 76.25em) {
+  .md-grid {
+    max-width: 92rem;
+  }
+}
+
+@media screen and (min-width: 60em) {
+  .md-content {
+    max-width: 100%;
+  }
+}
+
+.md-typeset {
+  font-size: 0.86rem;
+  line-height: 1.65;
+}
+
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+.md-typeset code {
+  white-space: pre-wrap;
+}
