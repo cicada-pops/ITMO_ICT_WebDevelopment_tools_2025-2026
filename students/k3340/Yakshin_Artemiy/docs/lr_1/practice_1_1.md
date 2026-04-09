@@ -1,7 +1,3 @@
----
-title: Практика 1.1 — FastAPI + Pydantic
----
-
 # Практика 1.1 — FastAPI + Pydantic + временная БД
 
 ## Задание
@@ -188,5 +184,5 @@ Swagger: <http://127.0.0.1:8000/docs>
 
 ## Ссылки
 
-- Исходный код — [`Lr_1/practice_1_1/`](../../Lr_1/practice_1_1/)
+- Исходный код — [`Lr_1/practice_1_1/`](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340/Yakshin_Artemiy/Lr_1/practice_1_1/)
 - [Далее: Практика 1.2 →](practice_1_2.md)

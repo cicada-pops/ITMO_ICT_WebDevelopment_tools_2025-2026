@@ -1,7 +1,3 @@
----
-title: Лабораторная работа №1
----
-
 # Лабораторная работа №1 — Система проведения хакатонов
 
 ## Тема
@@ -71,7 +67,7 @@ title: Лабораторная работа №1
 
 ## Ссылки на исходный код
 
-- Практика 1.1 — [`Lr_1/practice_1_1/`](../../Lr_1/practice_1_1/)
-- Практика 1.2 — [`Lr_1/practice_1_2/`](../../Lr_1/practice_1_2/)
-- Практика 1.3 — [`Lr_1/practice_1_3/`](../../Lr_1/practice_1_3/)
-- Лабораторная  — [`Lr_1/lab_1/`](../../Lr_1/lab_1/)
+- Практика 1.1 — [`Lr_1/practice_1_1/`](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340/Yakshin_Artemiy/Lr_1/practice_1_1/)
+- Практика 1.2 — [`Lr_1/practice_1_2/`](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340/Yakshin_Artemiy/Lr_1/practice_1_2/)
+- Практика 1.3 — [`Lr_1/practice_1_3/`](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340/Yakshin_Artemiy/Lr_1/practice_1_3/)
+- Лабораторная  — [`Lr_1/lab_1/`](https://github.com/cicada-pops/ITMO_ICT_WebDevelopment_tools_2025-2026/tree/HEAD/students/k3340/Yakshin_Artemiy/Lr_1/lab_1/)
