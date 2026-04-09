@@ -9,10 +9,24 @@ site_dir: site
 use_directory_urls: true
 
 theme:
-  name: readthedocs
+  name: material
+  language: ru
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: blue grey
+      accent: cyan
 
 plugins:
   - search
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 markdown_extensions:
   - tables
