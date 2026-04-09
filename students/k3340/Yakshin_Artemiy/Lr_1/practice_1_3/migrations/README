@@ -1,0 +1,4 @@
+Alembic миграции для practice_1_3.
+Создание новой миграции:  alembic revision --autogenerate -m "сообщение"
+Применение:               alembic upgrade head
+Откат последней:          alembic downgrade -1
