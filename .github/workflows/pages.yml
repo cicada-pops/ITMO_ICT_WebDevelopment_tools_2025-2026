@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - Lr_1
+      - Lr_2
   workflow_dispatch:
 
 permissions:
