@@ -6,6 +6,7 @@ on:
       - main
       - Lr_1
       - Lr_2
+      - Lr_3
   workflow_dispatch:
 
 permissions:

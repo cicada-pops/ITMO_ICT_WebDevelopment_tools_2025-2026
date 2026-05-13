@@ -55,3 +55,9 @@ nav:
       - Задача 1 — сумма чисел: lr_2/task_1.md
       - Задача 2 — парсинг + БД: lr_2/task_2.md
       - Сводное сравнение: lr_2/summary.md
+  - Лабораторная работа 3:
+      - Обзор: lr_3/index.md
+      - Упаковка в Docker: lr_3/docker.md
+      - Сервис парсера: lr_3/parser.md
+      - Очередь Celery: lr_3/queue.md
+      - Проверка стенда: lr_3/verify.md

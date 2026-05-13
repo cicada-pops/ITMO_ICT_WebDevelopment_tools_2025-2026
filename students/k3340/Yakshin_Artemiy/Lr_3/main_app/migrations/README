@@ -1,0 +1,4 @@
+Alembic миграции для lab_1.
+Создание новой миграции:  alembic revision --autogenerate -m "описание"
+Применение:               alembic upgrade head
+Откат последней:          alembic downgrade -1
